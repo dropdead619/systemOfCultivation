@@ -6,9 +6,13 @@ namespace systemOfCultivation
 {
     class Container
     {
+        //Издатель
         private string manufacturer;
+        //Габаритные размеры (длина, ширина)
         private int width;
         private int height;
+        //Объем
         private float volume;
+
     }
 }
