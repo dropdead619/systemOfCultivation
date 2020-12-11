@@ -4,14 +4,14 @@ using System.Text;
 
 namespace Kanat_console
 {
-    // класс Фитинги соединительные
-    public class fitting
-    {
-        private string name;
-
-        private int quantity;
-
-        private int modelFit;
+     // класс Фитинги соединительные
+     public class fitting
+     {   // Наименование
+     private string name;
+     // количество фитингов
+     private int quantity;
+     // идентификатор устройства  
+     private int modelFit;
 
     }
 }
