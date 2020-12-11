@@ -13,6 +13,10 @@ namespace systemOfCultivation
         private int height;
         //Объем
         private float volume;
-
+        //Фиттинг
+        private Fitting FittingOfContainer;
+        //Насос
+        private pump PumpOfContainer;
     }
 }
+ 
