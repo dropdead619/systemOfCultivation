@@ -4,7 +4,13 @@ using System.Text;
 
 namespace Kanat_console
 {
-    class Class1
+    public class filter
     {
+        private string name;
+        // количество
+        private int quantity;
+
+        private int model;
+
     }
 }
