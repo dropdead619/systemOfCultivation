@@ -20,5 +20,8 @@
 
         // Класс шланга
         private int classOfHoses;
+
+        // Класс фитинг для подсоединения к системе
+        private fitting fittingOfHoses;
     }
 }
